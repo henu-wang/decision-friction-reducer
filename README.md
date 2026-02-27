@@ -1,6 +1,6 @@
 # decision friction reducer
 
-Identify and reduce friction in decision-making workflows
+Reduce friction in decision-making processes
 
 ## Resources
 
